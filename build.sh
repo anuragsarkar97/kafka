@@ -1,2 +1,1 @@
-./gradlew clean releaseTarGz -x signArchives
-
+./gradlew jar
